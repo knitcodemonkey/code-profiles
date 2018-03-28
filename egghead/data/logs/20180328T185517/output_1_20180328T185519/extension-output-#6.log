@@ -1,0 +1,20 @@
+​​​​Quokka #1 (node: v8.4.0)​​​​
+​​​​Quokka #1 (node: v8.4.0)​​​​
+​​SyntaxError: Unexpected token (1:6)​​
+​​​​Quokka #1 (node: v8.4.0)​​​​
+​​SyntaxError: Unexpected token (1:8)​​
+​​​​Quokka #1 (node: v8.4.0)​​​​
+​​SyntaxError: Unexpected token (1:10)​​
+​​​​Quokka #1 (node: v8.4.0)​​​​
+​​​​Quokka #1 (node: v8.4.0)​​​​
+
+​​​​​some string​​​​​ at ​​​s​​​ ​quokka.js:2:0​
+​​​​Quokka #1 (node: v8.4.0)​​​​
+​​SyntaxError: Unexpected token (2:2)​​
+​​​​Quokka #1 (node: v8.4.0)​​​​
+​​​​Quokka #1 (node: v8.4.0)​​​​
+
+​​​​​some string​​​​​ at ​​​s​​​ ​quokka.js:2:0​
+​​​​Quokka #1 (node: v8.4.0)​​​​
+​​SyntaxError: Unexpected token (2:2)​​
+​​​​Quokka #1 (node: v8.4.0)​​​​

@@ -1,0 +1,12 @@
+[2018-03-28 18:55:18.115] [sharedprocess] [info] main {"machineId":"873d66db996241e9e364abd11d7f01fc82f24a2d3629bf3ee0832c2955514a71"}
+[2018-03-28 18:55:18.192] [sharedprocess] [info] Scanned user extensions: 6
+[2018-03-28 18:55:19.203] [sharedprocess] [info] Deleted from disk alefragnani.bookmarks-0.18.0
+[2018-03-28 18:55:20.022] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-28 18:55:20.023] [sharedprocess] [info] Deleted from disk esbenp.prettier-vscode-1.1.2
+[2018-03-28 18:55:20.039] [sharedprocess] [info] Deleted from disk WallabyJs.quokka-vscode-1.0.94
+[2018-03-28 18:55:20.050] [sharedprocess] [info] Deleted from disk WallabyJs.wallaby-vscode-1.0.75
+[2018-03-28 18:55:20.532] [sharedprocess] [info] Scanned user extensions: 6
+[2018-03-28 18:55:20.541] [sharedprocess] [info] Scanned user extensions: 6
+[2018-03-28 18:55:20.639] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-28 18:55:23.949] [sharedprocess] [info] Scanned user extensions: 6
+[2018-03-28 18:55:58.130] [sharedprocess] [info] Starting to clean up unused language packs.

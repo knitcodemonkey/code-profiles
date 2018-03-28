@@ -1,6 +1,9 @@
 {
   "editor.fontFamily": "Operator Mono",
   "editor.tabSize": 2,
+  "editor.quickSuggestions": false,
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.hover": false,
   "editor.fontSize": 16,
   "editor.fontLigatures": false,
   "editor.multiCursorModifier": "ctrlCmd",
